@@ -47,7 +47,7 @@ No Terminal/Console:
 
 <a href="https://drive.google.com/file/d/1-FTY7jRfYbqVNQi-B7Dvn8p6wjnzf2f6/view?usp=sharing"> 🚀 Collection Sacola API - Postman</a><br>
 
-<img src="https://i.imgur.com/UBHcWKt.png" alt="Sacola API Swagger UI">
+<img src="![image](https://user-images.githubusercontent.com/101678979/197830927-3c73029c-f8fb-471d-bb76-034ef377a80d.png)" alt="Sacola API Swagger UI">
 
 <h3>Tecnologias Utilizadas</h3>
 
