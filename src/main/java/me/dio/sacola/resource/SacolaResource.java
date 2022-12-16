@@ -30,4 +30,9 @@ public class SacolaResource {
                              @RequestParam("formaPagamento") int formaPagamento) {
     return sacolaService.fecharSacola(sacolaId, formaPagamento);
   }
+
+   @DeleteMapping("/sacola/{sacolaId}")
+  public Sacola excluirItemNaSacola(@PathVariable("sacolaId") Long sacolaId{
+      return sacolaService.excluirItemNaSacola(sacolaId);
+  }
 }
